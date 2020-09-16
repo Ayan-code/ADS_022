@@ -68,3 +68,20 @@ int main(){
     printList(head);
 	return 0;
 }
+
+
+/* OUTPUT ...
+Enter values and enter '-99' to end:
+5
+3
+4
+1
+7
+8
+2
+-99
+
+Enter k :3
+My current list is: 2 8 7 1 4 3 5
+Reversed Linked list: 7 8 2 3 4 1 5
+*/
